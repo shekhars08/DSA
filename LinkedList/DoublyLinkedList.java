@@ -67,6 +67,7 @@ public class DoublyLinkedList {
 		}
 		System.out.println("Doubly LinkedList : ");
 		dlist.display();
+		System.out.ptintln("Helol");
 		sc.close();
 	}
 }
